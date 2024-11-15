@@ -1,2 +1,1 @@
-# minesweeper
-Aknakereső játék
+# Aknakereső játék
