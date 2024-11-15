@@ -16,6 +16,6 @@ A játékot a **main** modul szkriptként futtatásával lehet indítani, amihez
 
 Az alábbi képernyőképek alapértelmezett és attól eltérő paraméterekkel indított játékokat mutat nyert vagy vesztett végállapotban, valamint az új játékjellemzők beviteli ablakát is láthatjuk.
 
-<img src="https://github.com/pythontudasepites/minesweeper/blob/main/minesweeper_1.jpg" width="623" height="420">
+<img src="https://github.com/pythontudasepites/minesweeper/blob/main/minesweeper_1.jpg" width="623" height="240">
 
-<img src="https://github.com/pythontudasepites/minesweeper/blob/main/minesweeper_2.jpg" width="623" height="420">
+<img src="https://github.com/pythontudasepites/minesweeper/blob/main/minesweeper_2.jpg" width="623" height="542">
