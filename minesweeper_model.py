@@ -9,7 +9,7 @@ class MinesweeperModel:
 
     def __init__(self, row_count: int, column_count: int, mine_count: int | None = None):
         # A sor és oszlopok száma 8 vagy nagyobb egész szám, az aknák száma pozitív egész, ami kisebb, mint a cellák száma.
-        if not isinstance(row_count, int) or not isinstance(row_count, int) or row_count < 8 or column_count < 8:
+        if not isinstance(row_count, int) or not isinstance(column_count, int) or row_count < 8 or column_count < 8:
             raise ValueError('A sorok és oszlopok száma egy legalább 8 értékű egész szám kell, hogy legyen.')
         if mine_count is not None and (not isinstance(mine_count, int) or mine_count <= 0):
             raise ValueError('Az aknák száma pozitív egész szám kell, hogy legyen.')
